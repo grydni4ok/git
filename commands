@@ -18,4 +18,5 @@ git log - просмтореть созданные комиты
 git branch <new branch name> - создаем новую ветку задав ей имя
 git checkout -b <new branch name> - создаем новую ветку и сразу переходим на нее
 git checkout <branch name> - перейти уже на существующую ветку
+git branch -d <branch name> - удалить ветку
 git megre <another branch name> - сливание с уже существующей веткой
