@@ -16,6 +16,7 @@ git log - просмтореть созданные комиты
 
 Создание новых веток
 git branch <new branch name> - создаем новую ветку задав ей имя
+git branch - покажет список всех созданных репозиториев
 git checkout -b <new branch name> - создаем новую ветку и сразу переходим на нее
 git checkout <branch name> - перейти уже на существующую ветку
 git branch -d <branch name> - удалить ветку
